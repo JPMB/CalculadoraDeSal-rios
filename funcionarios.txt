@@ -1,0 +1,15 @@
+1 : Pedro Reis : 5
+2 : Miguel Teles  : 5
+3 : Nuno Reis : 4
+4 : Rafael Carrilho : 3
+5 : Nuno Nunes : 3
+6 :   Osvaldo Pires : 2
+7 : Tiago Santos : 2
+8 : J. Almeida : 2
+9 : Rui Almondegas : 2
+10 : Anacleto : 1
+11 : José Manuel : 3
+12 : Rudolfo Bento  : 3
+13 :   Victor Valente : 1
+14 : Lúcia Portugal : 3
+15 : Vanessa Santos : 1
